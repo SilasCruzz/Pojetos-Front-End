@@ -1,0 +1,216 @@
+h1,
+h2,
+h3,
+li,
+p,
+ul,
+a {
+  font-family: "Montserrat", sans-serif;
+}
+/* cabeçalho */
+.realce-none {
+  text-decoration: none;
+  color: #112e61;
+  font-size: 14px;
+  font-weight: 600;
+}
+/* sessão hero */
+.titulo-home {
+  color: #404040;
+  font-size: 35px;
+  font-weight: 600;
+}
+
+.texto-topo-home {
+  color: #404040;
+  font-size: 19px;
+}
+
+.botao1 {
+  color: chocolate;
+  margin: 20px 0px 0px;
+  padding: 9px 0px;
+}
+
+.botao2 {
+  color: chocolate;
+  margin: 20px 0px 0px;
+  padding: 9px 0px;
+}
+
+.hashtag-treinamentos {
+  color: #ffff;
+  font-size: 24px;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.conteudos-100 {
+  font-size: 36px;
+  color: #404040;
+}
+.conteudos-10o {
+  color: #404040;
+  font-size: 35px;
+  font-weight: 400;
+}
+
+.conteudos-100 {
+  color: #7a40be;
+  font-weight: 600;
+}
+
+.treinamentos {
+  font-size: 23px;
+  padding: 8px 20px;
+  color: #ffff;
+  font-weight: 700;
+}
+
+.treinamentos-icones {
+  font-size: 19px;
+  color: #404040;
+  text-decoration: none;
+  font-weight: 0;
+}
+
+.treinamentos-icones2 {
+  font-size: 19px;
+  color: #404040;
+  text-decoration: none;
+  font-weight: 0;
+}
+
+.diferenciais {
+  font-size: 35px;
+  color: #000;
+  font-weight: 400;
+}
+
+.span-diferenciais {
+  color: #000;
+  font-weight: 600;
+}
+
+.entenda-porque {
+  font-size: 19px;
+  color: #ffff;
+}
+
+.foco {
+  font-size: 27px;
+  color: #005e98;
+  margin: 24px;
+  font-weight: 600;
+}
+
+.diferenciais-home {
+  font-size: 16px;
+  color: #404040;
+}
+
+.titulo-empresas {
+  font-size: 35px;
+  color: #404040;
+}
+
+.empresas {
+  text-decoration-line: none;
+  text-decoration: none;
+  color: #005e88;
+  font-size: 35px;
+}
+
+.oque-falam {
+  font-size: 35px;
+  color: #ffff;
+}
+
+.span-oque-falam {
+  color: #ffff;
+  font-size: 35px;
+}
+.veja-depoimentos {
+  color: #ffff;
+  font-size: 24px;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.titulo-home-na-midia {
+  font-size: 35px;
+  color: #404040;
+  font-weight: 400;
+}
+.ultimos-posts {
+  font-size: 35px;
+  color: #000;
+  font-weight: 400;
+}
+.texto-link-pequeno {
+  font-size: 15px;
+  color: #404040;
+}
+.texto-link-pequeno {
+  text-decoration: none;
+  color: #f7a70c;
+}
+.texto-link-ultimos {
+  text-decoration: none;
+  font-size: 24px;
+  color: #404040;
+  font-weight: 600;
+}
+.texto-pequeno001 {
+  font-size: 17px;
+  color: #404040;
+}
+.como-hashtag {
+  font-size: 35px;
+  font-weight: 400;
+}
+.Hashtag {
+  font-weight: bolder;
+  font-size: 35px;
+}
+
+.links-ajudar {
+  font-weight: 600;
+  color: #008ff7;
+}
+.ajudar-textos {
+  font-size: 19px;
+}
+.cadastre-se {
+  font-size: 35px;
+  font-weight: 400;
+}
+.minicurso-degraça {
+  font-weight: 700;
+}
+.cadastro {
+  font-size: 19px;
+}
+.botao-enviar {
+  font-size: 30px;
+  font-weight: 700;
+}
+.titulos-final {
+  font-size: 22px;
+  font-weight: 600;
+}
+.cursos-online {
+  font-size: 20px;
+  font-weight: 500;
+}
+.links-faleconosco {
+  font-size: 16px;
+  color: #1a77a4;
+}
+.paragrafo-final {
+  font-size: 16px;
+  line-height: 19px;
+}
+.rua-endereco {
+  font-size: 16px;
+}
